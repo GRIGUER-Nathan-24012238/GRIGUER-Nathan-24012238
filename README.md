@@ -6,17 +6,6 @@
 - In the future, I'd like to work in Data Analysis or Network.
 - I'm in research for an 10 weeks internship from April to July 2026
 
-
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GRIGUER-Nathan-24012238&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="GRIGUER-Nathan-24012238's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=GRIGUER-Nathan-24012238&theme=dark&hide_border=true&cache_seconds=86400" alt="GRIGUER-Nathan-24012238's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=GRIGUER-Nathan-24012238&theme=dark&radius=10" alt="GRIGUER-Nathan-24012238's Activity Graph" />
-</p>
-
-
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
